@@ -1,0 +1,10 @@
+planet:Terre:La planete bleue
+spaceship:Odyssey
+spaceship:Crusader
+character:Mike:200:30:none
+character:Phil:150:20:none
+character:Tom:400:40:none
+character:Jessica:200:20:none
+character:Ted:250:35:planet:Terre
+character:Xena:350:45:planet:Terre
+mission:Capture de Xena:Vous devrez trouver et capturer Xena:0

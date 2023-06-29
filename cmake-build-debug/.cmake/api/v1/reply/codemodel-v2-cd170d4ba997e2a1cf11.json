@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/boris/Desktop/Formation AJC/Programmation C++/git/mission/cmake-build-debug",
-		"source" : "C:/Users/boris/Desktop/Formation AJC/Programmation C++/git/mission"
+		"build" : "C:/Users/boris/Desktop/Formation AJC/Programmation C++/Personnage/git/mission/cmake-build-debug",
+		"source" : "C:/Users/boris/Desktop/Formation AJC/Programmation C++/Personnage/git/mission"
 	},
 	"version" : 
 	{
